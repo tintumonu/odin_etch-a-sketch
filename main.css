@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    color: red;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 800px;
+    margin: 100px auto;
+
+}
+
+.squareDiv{
+    
+    background-color: blue;
+    width: 6.25%;
+    padding-bottom: 6.25%;
+    
+}
+
+.hoverColor{
+    background-color: red;
+}
+
